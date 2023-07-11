@@ -1,0 +1,2 @@
+#!/bin/bash
+go run .\url_size.go http://www.unisa.ac.za http://www.uj.ac.za http://www.wits.ac.za http://www.up.ac.za http://www.uct.ac.za http://www.ukzn.ac.za http://www.ufs.ac.za http://www.nwu.ac.za
